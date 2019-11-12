@@ -1,2 +1,2 @@
-# Promodoro
+# 🍎 Promodoro
 Productivity Application
